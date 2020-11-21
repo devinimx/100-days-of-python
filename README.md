@@ -1,16 +1,6 @@
 # 100 Days of Python
 This is the course resources for the Official [100 Days of Python Course](https://100daysofpython.dev)
-Feel free to make pull requests if you discover a missing link!
-* [Course Pledge](https://drive.google.com/uc?export=download&id=1sB3Zr88H65ZYYLgZYkLpExU6e7u9g5FA)
 
-<<<<<<< HEAD
-I've added all the links and course resources to the individual lessons on Udemy. I hope this makes it easier for you to find the relevant links and files and keeps you in flow =) 
-
-In the Udemy lesson, go to the right-hand pane and simply click on the Resources button and you'll find the relvant links for that lesson:
-
-<a href="https://imgur.com/46WfNQ0"><img src="https://i.imgur.com/46WfNQ0.png" title="source: imgur.com" /></a>
-
-=======
 ## Day 1 - Working with Variables in Python to Manage Data
 
 * Press the "Play" button (bottom right) to see the [Day 1 - Project Goal](https://repl.it/@appbrewery/band-name-generator-end?embed=1&output=1#main.py)
