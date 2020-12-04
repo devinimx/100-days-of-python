@@ -17,7 +17,6 @@ This is the course resources for the Official [100 Days of Python Course](https:
 * [Python Variables End](https://repl.it/@appbrewery/day-1-variables-end)
 * [Band Name Generator Start](https://repl.it/@appbrewery/band-name-generator-start)
 * [Band Name Generator Completed Code](https://repl.it/@appbrewery/band-name-generator-end)
->>>>>>> parent of 954eee1... Update README.md
 
 ## Day 2 - Understanding Data Types and How to Manipulate Strings
 
